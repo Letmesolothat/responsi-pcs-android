@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingBottom="16dp"
-            android:text="LOGIN BELANJAIN"
+            android:text="LOGIN"
             android:textStyle="bold" />
 
         <ImageView
@@ -56,5 +56,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Register" />
+
     </LinearLayout>
 </RelativeLayout>
